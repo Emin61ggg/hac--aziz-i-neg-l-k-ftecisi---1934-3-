@@ -1,0 +1,6 @@
+{
+  "name": "Hacı Aziz İnegöl Köftecisi - 1934",
+  "description": "Premium heritage website for Hacı Aziz İnegöl Köftecisi, Bursa's famous Turkish meatball restaurant since 1934, featuring authentic recipes, full menu, interactive busyness stats, and dual-language options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
